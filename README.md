@@ -1,4 +1,4 @@
-# jueeeeen
+# jueeeeeen
 :D
 <h1 align="center">Hi 👋, I'm Emily Chow</h1>
 <h3 align="center">A KMITL Computer Engineering Student.</h3>
